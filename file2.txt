@@ -7,3 +7,5 @@ Edit the content of file3.txt save and commit again
 
 edit both files file1.txt and file2.txt , observe the change in 
 Github Desktop and commit both changes in one shot
+
+more changes has been added
